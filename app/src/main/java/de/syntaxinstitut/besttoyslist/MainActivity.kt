@@ -9,8 +9,6 @@ import de.syntaxinstitut.besttoyslist.databinding.ActivityMainBinding
  * Main Activity, dient als Einstiegspunkt für die App
  */
 
-
-
 class MainActivity : AppCompatActivity() {
 
     /* -------------------- Klassen Variablen -------------------- */
